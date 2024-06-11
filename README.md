@@ -1,1 +1,1 @@
-# clique
+# algoritmo para encontrar clique 
